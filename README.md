@@ -2,12 +2,8 @@
 <h3 align="center">I am Ethereum Blockchain Developer and Machine Learning enthusiast</h3>
 <img align="right" alt="programming"  width="400" src="https://user-images.githubusercontent.com/87383186/232774142-c3211f90-67be-4027-b67b-c317da895146.png"
 >
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiiidev&label=Profile%20views&color=0e75b6&style=flat" alt="ashiiidev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiiidev" alt="ashiiidev" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning,Deep Learning,Tensorflow,Keras,Pytorch**
