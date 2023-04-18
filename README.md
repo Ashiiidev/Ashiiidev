@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
 <h3 align="center">I am Ethereum Blockchain Developer and Machine Learning enthusiast</h3>
-<img align="right" alt="programming" src="![image](https://user-images.githubusercontent.com/87383186/232774142-c3211f90-67be-4027-b67b-c317da895146.png")
+<img align="right" alt="programming"  width="400" src="https://user-images.githubusercontent.com/87383186/232774142-c3211f90-67be-4027-b67b-c317da895146.png"
 >
 
 
