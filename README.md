@@ -41,7 +41,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiiidev&" alt="ashiiidev" /></p>
 
-These are my Holopin badges -->
+**These are my Holopin badges -->**
 [![@ashiidev's Holopin board](https://holopin.io/api/user/board?user=ashiidev)](https://holopin.io/@ashiidev)
 <!---
 Ashiiidev/Ashiiidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
